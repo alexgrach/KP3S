@@ -1,2 +1,2 @@
 # KP3S
-Marlin 320x240 lanscape mode for Kingroon KP3S 3D-printer
+Marlin 320x240 LCD portrait mode UI for Kingroon KP3S 3D-printer
